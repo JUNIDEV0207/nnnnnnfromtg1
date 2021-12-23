@@ -22,10 +22,8 @@ DATABASE_NAME = 'Telegram'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 # Messages
-START_MSG = """
-**Hi, I'm Media Search bot**
-
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+START_MSG = "
+Salom, Men MegaFind Bot. Media, Fayllarni Qidirish Uchun Quyidagi Tugmalardan foydalaning Yoki Memga Qidirmoqchi Bo'lgan Narsangizni Nomini Yozib Yuboring.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
